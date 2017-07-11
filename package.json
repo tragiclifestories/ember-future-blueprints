@@ -1,7 +1,7 @@
 {
   "name": "ember-future-blueprints",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Code generation for the glorious future of module unification and ES6 classes.",
   "keywords": [
     "ember-addon"
   ],

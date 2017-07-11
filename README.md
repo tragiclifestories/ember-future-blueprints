@@ -1,6 +1,6 @@
 # ember-future-blueprints
 
-This README outlines the details of collaborating on this Ember addon.
+Code generation for the glorious future of module unification and ES6 classes.
 
 ## Installation
 
@@ -15,9 +15,7 @@ This README outlines the details of collaborating on this Ember addon.
 
 ## Running Tests
 
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+No tests ... yet.
 
 ## Building
 
