@@ -3,7 +3,22 @@
 let path = require('path');
 
 module.exports = {
-  description: '',
+  description: 'Generates a service.',
+
+  availableOptions: [
+    {
+      name: 'extend-style',
+      type: Boolean,
+      default: false,
+      aliases: [
+        {'class-style': false}
+      ]
+    }
+  ],
+
+  anonymousOptions: [
+    'name'
+  ],
 
   locals(options) {
     return {

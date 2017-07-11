@@ -15,7 +15,7 @@
   "scripts": {
     "build": "ember build",
     "start": "ember server",
-    "test": "ember try:each"
+    "test": "echo 'naughty' && exit 1"
   },
   "dependencies": {
     "ember-cli-babel": "^6.3.0"
